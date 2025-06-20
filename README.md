@@ -1,9 +1,18 @@
-# voicebank-dev-template
-A template for concatenative singing synthesis (UTAU, Deepvocal, etc.) voicebank development.
+# どろどろβ UTAU日语连续音（G3单音阶）
+声音提供者：[Cerenothoa](https://www.wikidot.com/user:info/cerenothoa)
 
-## Features
-- Linting and validation for OpenUtau `character.yaml` and OpenUtau yaml dictionaries.
-- `.gitignore` for publishing on GitHub
+来源：https://chongzhen.wikidot.com/files:8940236
 
-## Usage
-See [wiki](https://github.com/oxygen-dioxide/voicebank-dev-template/wiki) for usage.
+## 技术规格
+- 架构：日文VCV
+- 音阶：G3
+
+## 用户协议
+- 你可以随便用它，爱干啥干啥。
+- 你咋用它都跟我没半毛钱关系。拿去恰饭都行。
+- 如果可以的话，用了它的话尽量在简介里面说一下用了它。
+- 把它发别的地方的话记得顺便把音源配布页的地址也给出来。不为别的，就为给爷引流。
+- 那坨史莱姆只是用来让音源有个头像。你就算拿去给你oc配音也没问题。
+- 即使你用它惹出事了也跟我没关系。本人不对用户滥用引发的任何后果承担一切责任。
+- 实在拿不准的事也请随时问我，但我大概率只会回答你“好好好”、“请”、“gkd”、“期待”和“支持”。
+- 差点忘了说了。二次配布的话千万别把我放在音源压缩包里面的readme.txt改了。

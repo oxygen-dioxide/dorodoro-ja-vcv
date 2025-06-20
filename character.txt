@@ -1,0 +1,2 @@
+name=‚Ç‚ë‚Ç‚ëƒÀ_VCV
+image=image.bmp
